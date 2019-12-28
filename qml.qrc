@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ui/screens/test/Test.qml</file>
+        <file>ui/components/main-coordinator/MainCoordinator.qml</file>
+        <file>ui/components/test/TestList.qml</file>
+        <file>ui/screens/make-color-transparent/MakeTransparentScreen.qml</file>
+    </qresource>
+</RCC>
